@@ -2,7 +2,7 @@
 	"Songs":[
 		{
 			"Name": "Zombie",
-			"Artist": "Cramberrie\ntest",
+			"Artist": "Cramberrie",
 			"Key": "Em",
 			"Difficulty": "2 étoiles",
 			"URL":"https://media.senscritique.com/media/000000348243/source_big/Zombie.jpg",
@@ -24,6 +24,13 @@
 					"Name": "D",
 					"URL": "http://www.guitarnoise.com/images/chords/d-chord-open-position.png"
 				}
+			],
+			"Lyric":[
+				"[Intro]",
+				"Em C G D/F#  4x",
+				"[Verse 1]",
+				"Em       C                G                D/F#",
+				"Another head hangs lowly, child is slowly taken"
 			]
 			
 		},
