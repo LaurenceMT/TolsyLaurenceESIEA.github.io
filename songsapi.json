@@ -2,7 +2,7 @@
 	"Songs":[
 		{
 			"Name": "Zombie",
-			"Artist": "Cramberrie",
+			"Artist": "Cramberrie\ntest",
 			"Key": "Em",
 			"Difficulty": "2 étoiles",
 			"URL":"https://media.senscritique.com/media/000000348243/source_big/Zombie.jpg",
@@ -25,6 +25,7 @@
 					"URL": "http://www.guitarnoise.com/images/chords/d-chord-open-position.png"
 				}
 			]
+			
 		},
 		{
 			"Name": "Mad World",
