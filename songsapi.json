@@ -4,25 +4,26 @@
 			"Name": "Zombie",
 			"Artist": "Cramberrie",
 			"Key": "Em",
-			"Difficulty": "2 étoiles",
+			"Tunning" : "E A D G B E",
 			"URL":"https://media.senscritique.com/media/000000348243/source_big/Zombie.jpg",
-			"Capo":"5 fret",
+			"Capo":"No Capo",
 			"Chords":[
 				{
 					"Name": "Em",
-					"URL": "https://jguitar.com/images/chordshape/E-Minor-E-0%2C2%2C2%2C0%2C0%2C0.png"
+					"URL": "http://nationalguitaracademy.com/wp-content/uploads/2015/09/E.png"
 				},
 				{
-					"Name": "G",
-					"URL": "http://www.guitarnoise.com/images/chords/g-chord-open-position.png"
+					"Name": "G/F#",
+					"URL": "https://jguitar.com/images/chordshape/D-Major-Fsharp-2%2C0%2C0%2C2%2C3%2C2.png"
 				},
 				{
-					"Name": "Am",
-					"URL": "http://www.worshiptutorials.com/wp-content/uploads/2012/11/Am.jpg"
+					"Name": "C",
+					"URL": "http://nationalguitaracademy.com/wp-content/uploads/2015/09/C-common-chords-1.png"
+
 				},
 				{
 					"Name": "D",
-					"URL": "http://www.guitarnoise.com/images/chords/d-chord-open-position.png"
+					"URL": "http://nationalguitaracademy.com/wp-content/uploads/2015/09/D.png"
 				}
 			],
 			"Lyric":[
@@ -78,36 +79,92 @@
 			
 		},
 		{
-			"Name": "Mad World",
-			"Artist": "Hardwell",
-			"Key": "Em",
-			"Difficulty": "2 étoiles",
-			"URL":"https://www.generationhit80.com/_Commun/Images/Pochettes/15252.jpg",
+			"Name": "Highway to Hell",
+			"Artist": "ACDC",
+			"Key": "A",
+			"URL":"https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/1/2/4/5099751076421/tsp20121014050549/Highway-to-hell.jpg",
 			"Capo":"5 fret",
 			"Chords":[
 				{
-					"Name": "Em",
-					"URL": "https://jguitar.com/images/chordshape/E-Minor-E-0%2C2%2C2%2C0%2C0%2C0.png"
+					"Name": "A",
+					"URL": "https://i.stack.imgur.com/gsnZo.png"
+				},
+				{
+					"Name": "D/F#",
+					"URL": "https://www.tabs4acoustic.com/accords-guitare/[2,0,0,2,3,2]-0.png"
 				},
 				{
 					"Name": "G",
-					"URL": "http://www.guitarnoise.com/images/chords/g-chord-open-position.png"
-				},
-				{
-					"Name": "Am",
-					"URL": "http://www.worshiptutorials.com/wp-content/uploads/2012/11/Am.jpg"
+					"URL": "http://nationalguitaracademy.com/wp-content/uploads/2015/09/G.png"
 				},
 				{
 					"Name": "D",
-					"URL": "http://www.guitarnoise.com/images/chords/d-chord-open-position.png"
+					"URL": "http://nationalguitaracademy.com/wp-content/uploads/2015/09/D.png"
 				}
 			],
 			"Lyric":[
-				"[Intro]",
-				"Em C G D/F#  4x",
 				"[Verse 1]",
-				"Em       C                G                D/F#",
-				"Another head hangs lowly, child is slowly taken"
+				"A A A",
+				"              D D/F# G              D D/F# G",
+				"     Livin' easy,        livin' free",
+				"D D/F# G       D/F#    A A",
+				"     Season ticket on a one way ride",
+				"A A A           D D/F# G             D D/F# G",
+				"     Askin' nothin,      leave me be.",
+				"  D D/F# G     D/F#   A A",
+				"     Takin' ev'rythin' in my stride.",
+				" ",
+				"A A A",
+				" ",
+				"              D D/F# G              D D/F# G",
+				"     Don't need reason, don't need rhyme,",
+				"D D/F# G       D/F#    A A",
+				"     Ain't nothin' I'd rather do.",
+				"A A A           D D/F# G             D D/F# G",
+				"     goin' down, party time.",
+				"  D D/F# G     D/F#       E",
+				"     my friends are gonna be there too.",
+				" ",
+				"[Chorus]",
+				"           A   A   A  D/A      G",
+				"I'm on the highway to hell",
+				"  D/F#     A   A   A  D/A      G",
+				"  on the   highway to hell",
+				"  D/F#     A   A   A  D/A      G",
+				"Highway to hell",
+				"    D/F#   A   A   A  D/A",
+				"I'm on the highway to hell",
+				" ",
+				"[Verse 2]",
+				"A A A",
+				"              D D/F# G              D D/F# G",
+				"    no stop signs, speed limit,",
+				"D D/F# G       D/F#    A A",
+				"    nobody's gonna slow me down.",
+				"A A A           D D/F# G             D D/F# G",
+				"    like a wheel, gonna spin it.",
+				"  D D/F# G     D/F#   A A",
+				"    nobody's gonna mess me around.",
+				" ",
+				"A A A",
+				"              D D/F# G              D D/F# G",
+				"    Hey, satan, pay'n' my dues,",
+				"D D/F# G       D/F#    A A",
+				"    playin' in a rockin' band.",
+				"A A A        D D/F# G             D D/F# G",
+				"    hey, mama, look at me.",
+				"  D D/F# G     D/F#      E",
+				"   I'm on my way to the promised land.",
+				" ",
+				"[Chorus]",
+				"           A   A   A  D/A      G",
+				"I'm on the highway to hell",
+				"  D/F#     A   A   A  D/A      G",
+				"  on the   highway to hell",
+				"  D/F#     A   A   A  D/A      G",
+				"Highway to hell",
+				"    D/F#   A   A   A  D/A",
+				"I'm on the highway to hell"
 			]
 			
 		},
