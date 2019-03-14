@@ -296,6 +296,74 @@
 				"Just come on & come on & raise your glass"
 			]
 			
+		},
+		{
+			"Name": "We will rock you",
+			"Artist": "Queen",
+			"Key": "Em",
+			"URL":"https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Queen_News_Of_The_World.png/220px-Queen_News_Of_The_World.png",
+			"Capo":"No capo",
+			"Chords":[
+				{
+					"Name": "G",
+					"URL": "http://www.guitarnoise.com/images/chords/g-chord-open-position.png"
+				},
+				{
+					"Name": "D",
+					"URL": "http://www.guitarnoise.com/images/chords/d-chord-open-position.png"
+				},
+				{
+					"Name": "C",
+					"URL": "http://nationalguitaracademy.com/wp-content/uploads/2015/09/C-common-chords-1.png"
+				},
+				{
+					"Name": "Em",
+					"URL": "https://jguitar.com/images/chordshape/E-Minor-E-0%2C2%2C2%2C0%2C0%2C0.png"
+				},
+				{
+					"Name":"Asus4",
+					"URL" : "https://i.pinimg.com/originals/66/60/d1/6660d1dac420237b9dc08742f86e5394.png"
+				}
+
+			],
+			"Lyric":[
+				"[Verse]",
+				"Em",
+				"Buddy you're a boy makin big noise,",
+				"                                     G        D",
+				"Playin' in the street gonna be a big man some day.",
+				"        Em",
+				"You got mud on yo' face, you big disgrace,",
+				"D                    Asus4    Em",
+				"Kickin' your can all over the place.",
+				" ",
+				"[Chorus]",
+				"Singin'",
+				"G  D      C  G     Em",
+				"We will,  we will, Rock you!",
+				"G  D      C  G     Em",
+				"We will,  we will, Rock you!",
+				"[Verse]",
+				"Em",
+				"Buddy you're a young man hard man,",
+				"                                         G          D",
+				"Shoutin' in the street gonna take on the world some day.",
+				"        Em",
+				"You got blood on yo' face, you big disgrace,",
+				"D                      Asus4    Em",
+				"Somebody better put you back into your place.",
+				" ",
+				"[Chorus]",
+				"G  D      C  G     Em",
+				"We will,  we will, Rock you!",
+				"G  D      C  G     Em",
+				"We will,  we will, Rock you!",
+				"G  D      C  G     Em",
+				"We will,  we will, Rock you!",
+				"G  D      C  G     Em",
+				"We will,  we will, Rock you!"
+			]
 		}
+
 	]
 }
