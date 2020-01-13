@@ -1,8 +1,12 @@
 {
 	"Items":[
 		{
-			"Salle": "I01",
-			"Image": "https://st3.depositphotos.com/1000941/16181/i/1600/depositphotos_161813254-stock-photo-classroom-for-lessons-and-training.jpg" 
+			"Salles":[
+				{
+					"Name": "I01",
+					"URL": "https://st3.depositphotos.com/1000941/16181/i/1600/depositphotos_161813254-stock-photo-classroom-for-lessons-and-training.jpg"
+				}
+				]
 		}
-  ]
+  		]
 }
